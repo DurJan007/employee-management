@@ -11,6 +11,6 @@ A Dockerized CRUD web app built with Node.js, Express, MongoDB, and EJS.
 
 ## 🚀 Quick Start
 ```powershell
-git clone <your-repo-url>
+git clone <employee-management.zip>
 cd employee-management
 docker compose up --build
